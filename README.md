@@ -87,7 +87,7 @@ int main() {
 ```
 
 ## OUTPUT:
-![Screenshot 2024-09-02 152550](https://github.com/user-attachments/assets/b3e175d0-8fac-442b-a19f-03ca3def61da)
+![Screenshot 2024-09-02 222246](https://github.com/user-attachments/assets/dee27133-04b1-4ce2-8e28-ba34449ea4d2)
 
 ## RESULT:
 The program is executed successfully
@@ -345,7 +345,7 @@ int main() {
 ```
 
 ## OUTPUT:
-![Screenshot 2024-09-02 153220](https://github.com/user-attachments/assets/b007f233-88d9-48a9-84de-8a3fd2370f3f)
+![Screenshot 2024-09-02 222344](https://github.com/user-attachments/assets/edcc69be-0c11-4278-a010-8eabfb2f59b9)
 
 ## RESULT:
 The program is executed successfully
@@ -484,7 +484,7 @@ int main() {
 
 
 ## OUTPUT:
-![Screenshot 2024-09-02 153929](https://github.com/user-attachments/assets/2a59a18e-a58d-4388-bf5b-a3c4658f1fc7)
+![Screenshot 2024-09-02 222436](https://github.com/user-attachments/assets/3ae6ccf5-7c2d-4460-910c-38d94c2c0d8e)
 
 ## RESULT:
 The program is executed successfully
@@ -582,7 +582,7 @@ int main() {
 ```
 
 ## OUTPUT:
-![Screenshot 2024-09-02 154132](https://github.com/user-attachments/assets/38b113ed-3d7d-4fb4-937f-19125e9953b4)
+![Screenshot 2024-09-02 222520](https://github.com/user-attachments/assets/430d6b6f-51d7-4ac6-8583-b7ea341fac29)
 
 ## RESULT:
 The program is executed successfully
@@ -664,7 +664,7 @@ int main() {
 }
 ```
 ## OUTPUT:
-![Screenshot 2024-09-02 154332](https://github.com/user-attachments/assets/4bb69396-4696-4128-8cfa-5e626a59e286)
+![Screenshot 2024-09-02 222618](https://github.com/user-attachments/assets/45c024ac-47c3-4551-b8b2-709d91e05721)
 
 ## RESULT:
 The program is executed successfully
